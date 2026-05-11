@@ -105,4 +105,4 @@ AI 기반 품새 평가를 위한 촬영 가이드 정리 프로젝트
 
 - GitHub: [github.com/KJT0203](https://github.com/KJT0203)
 - Portfolio: Preparing
-- Email: your-email@example.com
+- Email: kjt7976@gmail.com
